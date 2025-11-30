@@ -50,5 +50,9 @@ I’m a CS student and developer who enjoys exploring new technologies and build
 ### Language Breakdown
 
 <a href="https://github.com/MuhiburR" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhiburR&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhiburR&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" 
+    alt="Top Languages" 
+  />
 </a>
+
