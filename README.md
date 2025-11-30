@@ -7,6 +7,7 @@ My name is Muhibur R.
 I’m a CS student and developer who enjoys exploring new technologies and building everything from small games to full-stack applications while continuously learning through fun, challenging projects.
 
 - 🌍 I'm based in New York  
+- 🚀 I'm currently working on [Social App](https://github.com/MuhiburR)  
 - 🧠 I'm currently learning AI/ML, Computer Vision, Neural Networks (CNN, GNN)  
 - 👥 I'm looking to collaborate on fun projects  
 
@@ -43,3 +44,11 @@ I’m a CS student and developer who enjoys exploring new technologies and build
 </picture>
 </a>
 </p>
+
+---
+
+### Badges
+
+<a href="https://github.com/MuhiburR" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhiburR&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
