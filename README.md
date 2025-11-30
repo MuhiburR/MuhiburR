@@ -49,4 +49,4 @@ I’m a CS student and developer who enjoys exploring new technologies and build
 
 ### Language Breakdown
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhiburr)](https://github.com/anuraghazra/github-readme-stats)
