@@ -50,5 +50,5 @@ I’m a CS student and developer who enjoys exploring new technologies and build
 ### Badges
 
 <a href="https://github.com/MuhiburR">
-  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=MuhiburR&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhiburR&theme=github_dark" alt="Most Used Languages" />
 </a>
