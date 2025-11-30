@@ -47,6 +47,12 @@ I’m a CS student and developer who enjoys exploring new technologies and build
 
 ---
 
-### Language Breakdown
+### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/muhiburr/github-readme-stats)
+<a href="https://github.com/MuhiburR">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhiburR&theme=github_dark"
+    alt="Most Used Languages"
+  />
+</a>
+
