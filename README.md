@@ -47,11 +47,11 @@ I’m a CS student and developer who enjoys exploring new technologies and build
 
 ---
 
-### Most Used Languages
+### Language Breakdown
 
 <a href="https://github.com/MuhiburR">
-  <img 
-    src="https://github-language-breakdown.vercel.app/api/MuhiburR?theme=dark" 
-    alt="Language Breakdown."
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuhiburR&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
   />
 </a>
