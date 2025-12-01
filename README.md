@@ -7,7 +7,7 @@ My name is Muhibur R.
 I’m a CS student and developer who enjoys exploring new technologies and building everything from small games to full-stack applications while continuously learning through fun, challenging projects.
 
 - 🌍 I'm based in New York  
-- 🚀 I'm currently working on [Social App](https://github.com/MuhiburR)  
+- 🚀 I'm currently working on a [Social App](https://github.com/MuhiburR)  
 - 🧠 I'm currently learning AI/ML, Computer Vision, Neural Networks (CNN, GNN)  
 - 👥 I'm looking to collaborate on fun projects  
 
